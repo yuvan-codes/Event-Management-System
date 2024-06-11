@@ -16,3 +16,5 @@ Step 4: Download the folder named "src" i have provided in this Github Repositor
 Step 5: Delete the folder named "src" in the React App you have created and Replace it with my "src" folder.
 
 Now the Application should Run as Expected.
+
+![Screenshot 2024-06-10 211951](https://github.com/yuvan-codes/Event-Management-System/assets/150386089/5cd03c15-2ae4-444c-9efc-e249c19ee8ad)
